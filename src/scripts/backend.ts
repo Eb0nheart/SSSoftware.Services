@@ -4,12 +4,13 @@ const softwareDevelopment = {
   title: "Software Development",
   description:
     "I can develop most software, and if i can't then i can learn how to.\n" +
-    "If i have to learn something to develop a product for you, then the rate will we reduced.\n\n" +
+    "If i have to learn something to develop a product for you, then the rate will be reduced.\n\n" +
     "Things i already have competences to develop:\n" +
     "1. Mobile Apps (cross platform)\n" +
     "2. Websites\n" +
     "3. Cross platform applications (Web Api's, services, console apps, etc.)\n" +
-    "4. Windows GUI applications",
+    "4. Windows GUI applications \n" +
+    "5. Windows Services, Web API's and scheduled Tasks",
   ratePrHourDKK: 200,
 };
 
