@@ -1,26 +1,26 @@
-.ContentContainer{
-    background-color: cadetblue;
-    margin: 1rem;
-    padding: 8px;
-    max-width: fit-content;
+.ContentContainer {
+  background-color: cadetblue;
+  margin: 1rem;
+  padding: 8px;
+  max-width: fit-content;
 }
 
-.InnerContainer{
-    background-color: #282c34;
-    white-space: pre-wrap;
-    width: 50vw;
-    color: white;
-    padding: 1rem;
+.InnerContainer {
+  background-color: #282c34;
+  white-space: pre-wrap;
+  width: 50vw;
+  color: white;
+  padding: 1rem;
 }
 
-.Title{
-    color: white;
-    text-decoration-line: underline;
-    text-decoration-color: cadetblue;
+.Title {
+  color: white;
+  text-decoration-line: underline;
+  text-decoration-color: cadetblue;
 }
 
 @media only screen and (max-width: 600px) {
-    .InnerContainer {
-        width: 80vw;
-    }
+  .InnerContainer {
+    width: 80vw;
+  }
 }
